@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<scene>
+
+  <config></config>
+	<entities>
+    
+		<entity name="robot">
+			<components>
+        
+				<component type="render">
+					<mesh>minions.obj</mesh>
+					<material>metal.mtl</material>
+				</component>
+				
+			</components>
+		</entity>
+    
+	</entities>
+</scene>
